@@ -1,0 +1,47 @@
+[
+    {
+        "id":"1",
+        "name":"alon",
+        "phone":"052-0900090",
+        "email":"alon@gmail.com",
+        "role":"worker",
+        "department":"WorkerDepartment",
+        "Start of work date":"1-2-2022"
+    },
+    {
+        "id":"2",
+        "name":"jsoff",
+        "phone":"052-7150235",
+        "email":"jsoff@gmail.com",
+        "role":"Manager",
+        "department":"ManagerDepartment",
+        "Start of work date":"1-2-2020"
+    },
+    {
+        "id":"3",
+        "name":"David",
+        "phone":"052-233222",
+        "email":"David@gmail.com",
+        "role":"ManagerTeam",
+        "department":"ManagerDepartment",
+        "Start of work date":"1-2-2013"
+    },
+    {
+        "id":"4",
+        "name":"kobi",
+        "phone":"052-000674",
+        "email":"kobi@gmail.com",
+        "role":"worker",
+        "department":"WorkerDepartment",
+        "Start of work date":"1-12-20203"
+    },
+    {
+        "id":"5",
+        "name":"sara",
+        "phone":"052-1212221",
+        "email":"sara@gmail.com",
+        "role":"Manager",
+        "department":"ManagerDepartment",
+        "Start of work date":"1-2-2000"
+    }
+]
